@@ -4,7 +4,9 @@ This is my version of the Codecademy Mixed Messages Portfolio Project.
 ## Code's Purpose
 This program is intended to provide the user with a new, randomized message with every run.
 
-## Features
+## Technologies
+1. JavaScript
+2. Git Bash
 
 
 ## Installation and Usage instructions
