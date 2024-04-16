@@ -1,6 +1,6 @@
-let characterName = ["Jack ", "Jill ", "Jason ", "Kendall ", "Kylie ", "Kimber "];
+let characterName = ["Jack", "Jill", "Jason", "Kendall", "Kylie", "Kimber"];
 
-let action = ["ran down the hill ", "slept in the field ", "talked with the store owner ", "played in the rain "];
+let action = ["ran down the hill", "slept in the field", "talked with the store owner", "played in the rain"];
 
 let dayOfTheWeek = ["on Monday.", "on Tuesday.", "on Wednesday.", "on Thursday.", "on Friday.", "on Saturday.", "on Sunday.",];
 
